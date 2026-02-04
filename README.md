@@ -137,4 +137,22 @@
     <span>Manajemen Tim</span>
     <span>Media Sosial</span>
     <span>Public Speaking</span>
-    <span>Microso
+    <span>Microsoft Office</span>
+    <span>Fotografi</span>
+    <span>Videografi</span>
+    <span>Editing Video</span>
+  </div>
+</section>
+
+<section class="contact">
+  <h2 style="color:#fff">Kontak</h2>
+  <p>📞 0819-1041-8032</p>
+  <p>✉️ tigaserangakai@gmail.com</p>
+</section>
+
+<footer>
+  <p>© 2026 Taufiq Hidayatullah • Portfolio Website</p>
+</footer>
+
+</body>
+</html>
