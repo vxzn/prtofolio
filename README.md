@@ -88,7 +88,7 @@
   <h2>Kontak</h2>
   <div class="card">
     <p><strong>Telepon:</strong> 0819-1041-8032</p>
-    <p><strong>Email:</strong> tigaserangakai@gmail.com</p>
+    <p><strong>Email:</strong> taufiqhyt51@gmail.com</p>
   </div>
 </section>
 
